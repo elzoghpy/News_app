@@ -43,10 +43,8 @@ dependencies:
   hexcolor: ^3.0.1
   shared_preferences: ^2.2.0
   dio: ^5.3.3
-  webview_flutter: ^4.2.2
-  webview_flutter_android: ^3.9.3
-  webview_flutter_wkwebview: ^3.7.3
-  webview_flutter_platform_interface: ^2.5.0
+  webview_flutter: ^3.0.4
+  image_picker: ^0.8.7+4S
   firebase_core: ^2.16.0
   
 
